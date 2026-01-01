@@ -1,3 +1,4 @@
+[![Meshery Academy](https://img.shields.io/badge/Meshery-Academy-blue)](https://meshery.io/academy)
 ![Meshery-Logo](.github/assets/images/meshery-logo-dark-text-side.svg)
 # Meshery Academy
 
@@ -177,6 +178,7 @@ We welcome contributions to improve:
 - Community Slack: <https://slack.meshery.io/>
 
 Happy Learning!
+
 
 
 
